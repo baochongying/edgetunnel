@@ -1,7 +1,8 @@
-
+//这个修改主要
+//llllljiiiin;;;kkkkssjjjjjjj
 import { connect } from 'cloudflare:sockets';
 
-let userID = '04e87138-bbba-473b-9ec1-50856bf7e4d1';
+let userID = 'b346a0a9-acf7-4c35-90ee-20857d1e79a9';
 let proxyIP = '';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
